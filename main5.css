@@ -1,0 +1,15 @@
+body{
+    background-color: #ff6969;
+    background-image: url("../rasmlar/photo_5213012114980062690_x.jpg");
+}
+.bx{
+    font-size: 1.5rem;
+}
+.jumbotron{
+    width: 370px;
+    height: 480px;
+    margin: 200px auto !important;
+}
+h3{
+    letter-spacing: 2px;
+}
